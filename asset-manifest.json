@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EgyptHub/static/css/main.9bd6430a.css",
+    "main.js": "/EgyptHub/static/js/main.3163e3e9.js",
+    "static/js/787.75f5ef40.chunk.js": "/EgyptHub/static/js/787.75f5ef40.chunk.js",
+    "static/media/201123_254aca7e13.jpg": "/EgyptHub/static/media/201123_254aca7e13.646e0ad81b0dc104cd6d.jpg",
+    "static/media/Digital_risks-white-paper-image_flipped-scaled.jpg": "/EgyptHub/static/media/Digital_risks-white-paper-image_flipped-scaled.ca7f71455bdc1323414e.jpg",
+    "static/media/Blog-10-1030x538.jpg": "/EgyptHub/static/media/Blog-10-1030x538.2860ff5b4495c7b14da8.jpg",
+    "static/media/healthcare-gym.jpg": "/EgyptHub/static/media/healthcare-gym.d287ec0e47a99c50d170.jpg",
+    "static/media/massagespa.jpg": "/EgyptHub/static/media/massagespa.c36aaeefc5b3571eae5b.jpg",
+    "static/media/31175482.jpg": "/EgyptHub/static/media/31175482.98de7c8cc799a1d409b6.jpg",
+    "static/media/depositphotos_26289561-stock-photo-3d-big-sale.jpg": "/EgyptHub/static/media/depositphotos_26289561-stock-photo-3d-big-sale.682b5f6e278eef83cef6.jpg",
+    "static/media/bodyShop.jpg": "/EgyptHub/static/media/bodyShop.fe5f1d50f5c894256305.jpg",
+    "static/media/depositphotos_68572319-stock-photo-sale-sign-over-red-background.jpg": "/EgyptHub/static/media/depositphotos_68572319-stock-photo-sale-sign-over-red-background.33db219868899fd6c6eb.jpg",
+    "static/media/SALE_100PercentBackground_Hero_2021_WithOutPc.dam.ts=1660214454006.jpg": "/EgyptHub/static/media/SALE_100PercentBackground_Hero_2021_WithOutPc.dam.ts=1660214454006.9f6bba1e055a2832498e.jpg",
+    "static/media/menfashion-blog-02.jpg": "/EgyptHub/static/media/menfashion-blog-02.86a0dd1ac59eb95a59e7.jpg",
+    "static/media/qr-template-7.png": "/EgyptHub/static/media/qr-template-7.cd10fcad0cc2e30f2f8e.png",
+    "index.html": "/EgyptHub/index.html",
+    "main.9bd6430a.css.map": "/EgyptHub/static/css/main.9bd6430a.css.map",
+    "main.3163e3e9.js.map": "/EgyptHub/static/js/main.3163e3e9.js.map",
+    "787.75f5ef40.chunk.js.map": "/EgyptHub/static/js/787.75f5ef40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd6430a.css",
+    "static/js/main.3163e3e9.js"
+  ]
+}
