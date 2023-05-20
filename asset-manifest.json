@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EgyptHub/static/css/main.9bd6430a.css",
-    "main.js": "/EgyptHub/static/js/main.3163e3e9.js",
+    "main.js": "/EgyptHub/static/js/main.cda754cc.js",
     "static/js/787.75f5ef40.chunk.js": "/EgyptHub/static/js/787.75f5ef40.chunk.js",
     "static/media/201123_254aca7e13.jpg": "/EgyptHub/static/media/201123_254aca7e13.646e0ad81b0dc104cd6d.jpg",
     "static/media/Digital_risks-white-paper-image_flipped-scaled.jpg": "/EgyptHub/static/media/Digital_risks-white-paper-image_flipped-scaled.ca7f71455bdc1323414e.jpg",
@@ -17,11 +17,11 @@
     "static/media/qr-template-7.png": "/EgyptHub/static/media/qr-template-7.cd10fcad0cc2e30f2f8e.png",
     "index.html": "/EgyptHub/index.html",
     "main.9bd6430a.css.map": "/EgyptHub/static/css/main.9bd6430a.css.map",
-    "main.3163e3e9.js.map": "/EgyptHub/static/js/main.3163e3e9.js.map",
+    "main.cda754cc.js.map": "/EgyptHub/static/js/main.cda754cc.js.map",
     "787.75f5ef40.chunk.js.map": "/EgyptHub/static/js/787.75f5ef40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bd6430a.css",
-    "static/js/main.3163e3e9.js"
+    "static/js/main.cda754cc.js"
   ]
 }
